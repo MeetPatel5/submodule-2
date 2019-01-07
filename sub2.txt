@@ -4,3 +4,4 @@ a
 submodule-2
 
 development
+    feature added
